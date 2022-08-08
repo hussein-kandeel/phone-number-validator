@@ -2,5 +2,5 @@
 
 Telephone Number Validator with JavaScript
 
-Fourth one of 5 projects for "FreeCodeCamp" certification "JavaScript Algorithms and Data Structures".
+4 of 5 projects for "FreeCodeCamp" certification "JavaScript Algorithms and Data Structures".
 
